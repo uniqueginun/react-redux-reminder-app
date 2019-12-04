@@ -20,3 +20,13 @@
 .App-link {
   color: #09d3ac;
 }
+
+.reminder-title {
+  padding: 9px;
+  min-width: 500px;
+  text-align: left;
+}
+
+.mark-as-complete {
+  margin-right: 57px;
+}
